@@ -1,8 +1,7 @@
 # Primzahlen-loga-Bezeingabe
 Primzahlen/loga/Bezeingabe
 -----
-# PHP Grundlagen
-Die Doctype-Declaration in HTML definiert die Dokumentenstruktur und -formatierung. Sie gibt dem Browser und anderen Verarbeitungsprogrammen Hinweise über die verwendeten Elemente, Schriftarten und andere Quellen im Dokument.
+
 
 
 ## Mario
