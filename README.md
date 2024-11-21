@@ -21,8 +21,7 @@ Primzahlen/loga/Bezeingabe
 
 
 ### Screenshot PHP Primzahlenberechung
--![Ausgabe Code übung 1] (https://github.com/dino-2602/PHP_Grundlagen/blob/main/PHP_Grundlagen/screenshots/Aufgabe%201.png](https://github.com/Xoisi/Primzahlen-loga-Bezeingabe/blob/main/primzahlenbez.png)
-
+-![Ausgabe Code übung 1](https://github.com/dino-2602/PHP_Grundlagen/blob/main/PHP_Grundlagen/screenshots/Aufgabe%201.png)
 ### Screenshot PHP Primzahlenberechung Loga
 
 -![Ausgabe Code übung 2]([https://github.com/dino-2602/PHP_Grundlagen/blob/main/PHP_Grundlagen/screenshots/Erweiterung%20Eingabe.png](https://github.com/Xoisi/Primzahlen-loga-Bezeingabe/blob/main/primlogabez.png))
